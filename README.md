@@ -28,9 +28,14 @@ public class İkiSayıdanBuyukOlan {
 
 
 Örnek 2: Girilen vize ve final notlarına göre öğrencinin dersten geçip geçmediğini bulan java kodu:
+
+
 package sinavortalaması;
+
 import java.util.Scanner;
+
 public class SinavOrtalaması {
+
     public static void main(String[] args) {
          Scanner reader = new Scanner(System.in);
         int vizeNot,finalNot;
