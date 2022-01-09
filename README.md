@@ -1,8 +1,7 @@
 # NidaK-l-c
 
 java örnek 10 sorunun video çözüm linki
-https://youtu.be/TrDgefVBvdw
-
+https://youtu.be/aFvxpbO_w1E
 
 Örnek 1: Birbirinden farklı olarak verilen iki adet sayıdan, büyük olanı bulup gösteren java kodu:
 package ikisayıdanbuyukolan;
