@@ -237,9 +237,13 @@ import java.util.Scanner;
 Örnek9:Dikdörtegen çevresi ve alanı bulduran java kodu:
 
 Soru9. package dikdörtgen;
+
 import java.util.Scanner;
+
 public class Dıkdortgen {
+
 public static void main(String[] args) {
+
 Scanner scan = new Scanner(System.in);
 int kenar1,kenar2;System.out.print("1. Kenarı giriniz: ");
 kenar1 = scan.nextInt();
